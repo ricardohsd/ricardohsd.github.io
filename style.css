@@ -1,0 +1,65 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+#main {
+    border-top: 5px solid #0082AF;
+}
+
+#wrapper {
+    width: 940px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+#header {
+    text-align: center;
+    line-height: 1.1;
+    margin-top: 20%;
+}
+
+#header #intro {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+#header p {
+    font-size: 23px;
+    margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        vertical-align: baseline;
+        background: transparent;
+}
+ul {
+    list-style: none;
+}
+
+a {
+    color: #0082AF;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.markup {
+    color: #0082AF;
+}
+
+.links {
+    margin: auto 0;
+    margin-top: 15px;
+    display: inline-block;
+    font-size: 28px;
+}
+
+.links li {
+    float: left;
+    margin-right: 10px;
+}
+
+.links li a {
+    color: #000;
+}
